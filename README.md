@@ -50,6 +50,7 @@ Here's an overview of our project journey:
   - Applied the trained model to the test dataset, generating predictions for the final submission.
 
 We welcome any Feedback!
+
 👉 Check out the project notebook:
 (https://shorturl.at/hit78)
 👉 Check out the documentation:
